@@ -1,0 +1,1 @@
+Para fazer a instalação e configuração do git basta, entra no site git-scm.com e pesquisar o que você deseja fazer.
