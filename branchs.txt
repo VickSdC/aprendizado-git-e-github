@@ -1,0 +1,6 @@
+git branch ou git -b "nome da branch"= Cria uma branch.
+git checkout "nome da branch" = Muda para a branch mencionada no comando.
+git branch -D "nome da branch" = Deleta a branch mencionada.
+git checkout -b "nome da branch" = Serve para criar e navegar por uma branch 
+git branch = Mostra todas as branchs do projeto.
+git merge = adiciona o arquivo da branch na branch master.
