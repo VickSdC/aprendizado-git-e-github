@@ -1,0 +1,1 @@
+git init, git add, git commit -m, git status, git log, git diff, git diff --name-only, git commit --amend, git reset head, git checkout --, git pull origin, git ignore.
